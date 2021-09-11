@@ -1,0 +1,15 @@
+[submodule "evaluation"]
+	path = evaluation
+	url = https://github.com/skrieter/evaluation
+[submodule "evaluation-mig"]
+	path = evaluation-mig
+	url = https://github.com/skrieter/evaluation-mig
+[submodule "formula"]
+	path = formula
+	url = https://github.com/skrieter/formula
+[submodule "formula-analysis"]
+	path = formula-analysis
+	url = https://github.com/skrieter/formula-analysis
+[submodule "formula-analysis-javasmt"]
+	path = formula-analysis-javasmt
+	url = https://github.com/skrieter/formula-analysis-javasmt
